@@ -58,7 +58,7 @@ drug_agent_project/
 
 ▶️ How to Run the Project
 1️⃣ Clone the repository
-git clone https://github.com/k4rthickx22/agentic-ai-clinical-system.git
+git clone https://github.com/Gowtham702/MyDoctor-/blob/main/README.md
 cd agentic-ai-clinical-system
 2️⃣ Create virtual environment
 python -m venv venv
@@ -89,8 +89,8 @@ This system is for educational and research purposes only.
 It does not replace professional medical consultation.
 
 👨‍💻 Author
-Karthick Kalaivanan
-GitHub: https://github.com/k4rthickx22
+Gowtham S
+GitHub: https://github.com/Gowtham702
 
 🔥 After Adding This
 
