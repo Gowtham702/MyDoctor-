@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+backend/venv/
+env/
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+build/
+
+# Environment secrets — NEVER commit these
+.env
+.env.local
+.env.*.local
+backend/.env
+!.env.example
+
+# ML model artifacts
+*.pkl
+*.joblib
+
+# Database
+*.db
+*.sqlite3
+
+# Logs & temp
+*.log
+output.json
+output_utf8.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+
+# Python build
+dist/
+build/
+*.egg-info/
+
+# TypeScript incremental build cache
+*.tsbuildinfo
+
+# Backend script pycache
+backend/scripts/__pycache__/
+
+# SQLite database (runtime artifact)
+backend/clinic.db
